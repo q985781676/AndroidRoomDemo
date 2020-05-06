@@ -7,6 +7,9 @@ import androidx.lifecycle.LiveData;
 
 import java.util.List;
 
+/**
+ * @author 98578
+ */
 public class WordReposity {
 
     private WordDao wordDao;
