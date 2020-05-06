@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomTest</string>
+    <string name="button_insert">insert</string>
+    <string name="button_update">update</string>
+    <string name="button_clear">clear</string>
+    <string name="button_delete">delete</string>
+    <string name="textview">TextView</string>
+</resources>
